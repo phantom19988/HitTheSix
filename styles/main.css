@@ -44,8 +44,8 @@ header::after {
 
 /* Hero Section */
 .hero {
-  height: 80vh;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.235), rgba(0, 0, 0, 0.6)), url('../images/news-1.jpeg');
+  height: 80vh; 
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.235), rgba(0, 0, 0, 0.6)), url('../images/front.jpg');
   object-fit: cover;
   background-size: 100% 100%;
   color: #fff;   
